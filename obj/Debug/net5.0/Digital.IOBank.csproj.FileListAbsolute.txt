@@ -1,0 +1,16 @@
+/home/maikf/Documentos/DIO/Digital.IOBank/bin/Debug/net5.0/Digital.IOBank
+/home/maikf/Documentos/DIO/Digital.IOBank/bin/Debug/net5.0/Digital.IOBank.deps.json
+/home/maikf/Documentos/DIO/Digital.IOBank/bin/Debug/net5.0/Digital.IOBank.runtimeconfig.json
+/home/maikf/Documentos/DIO/Digital.IOBank/bin/Debug/net5.0/Digital.IOBank.runtimeconfig.dev.json
+/home/maikf/Documentos/DIO/Digital.IOBank/bin/Debug/net5.0/Digital.IOBank.dll
+/home/maikf/Documentos/DIO/Digital.IOBank/bin/Debug/net5.0/ref/Digital.IOBank.dll
+/home/maikf/Documentos/DIO/Digital.IOBank/bin/Debug/net5.0/Digital.IOBank.pdb
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.csprojAssemblyReference.cache
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.AssemblyInfoInputs.cache
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.AssemblyInfo.cs
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.csproj.CoreCompileInputs.cache
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.dll
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/ref/Digital.IOBank.dll
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.pdb
+/home/maikf/Documentos/DIO/Digital.IOBank/obj/Debug/net5.0/Digital.IOBank.genruntimeconfig.cache
