@@ -76,7 +76,7 @@ namespace Digital.IOBank
 			Console.Write("Digite o valor a ser transferido: ");
 			double valorTransferencia = double.Parse(Console.ReadLine());
 
-            listaContas[indiceContaOrigem].Transferir(valorTransferencia, listContas[indiceContaDestino]);
+            listaContas[indiceContaOrigem].Transferir(valorTransferencia, listaContas[indiceContaDestino]);
 		}
 
 
